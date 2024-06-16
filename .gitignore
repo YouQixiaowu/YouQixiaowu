@@ -24,9 +24,12 @@
 *.lai
 *.la
 *.a
-*.lib
 
 # Executables
 *.exe
 *.out
 *.app
+
+# Visual Studio 项目文件夹
+.vs
+x64
