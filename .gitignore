@@ -33,3 +33,4 @@
 # Visual Studio 项目文件夹
 .vs
 x64
+DependencyLibrary
